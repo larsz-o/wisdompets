@@ -1,2 +1,9 @@
 # Wisdom Pets
-A Django pet adoption application 
+A Django web application to display fake pets for fake adoptions 
+
+## Built With
+* Django
+* SQLite 
+* JavaScript
+* Python 
+
